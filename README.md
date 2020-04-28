@@ -9,8 +9,11 @@ Group: 2.C - Not So Oriented
 Description: Rush Hour is a sliding block logic game, which is considered as one of the best logic games of all time where your main goal is to lead the red car to the exit by moving the other vehicles on the map out of the way. In the original version of the game there are 40 challenges, ranging in difficulty, which will push the player to think strategically before making a move. Our aim is to implement the game with our own style in order to make the players have a better experience in virtual life when compared to playing in real life. To do this we will have our own additions and changes made to the original Rush Hour game.
 
 Group Members:  
-- Deniz Dalkılıç 21601896
-- Ahmet Ayrancıoğlu 21601206
-- Sina Şahan 21602609
-- Ali Yümsel 21601841
-- Kaan Gönç 21602670
+- Deniz Dalkılıç
+- Ahmet Ayrancıoğlu
+- Sina Şahan
+- Ali Yümsel
+- Kaan Gönç
+
+Rush Hour.exe download link: https://drive.google.com/drive/folders/1uNj-_B_aHopx0Ke7FK3beET0uh7FovGI?usp=sharing 
+Rush Hour trailer video link: https://www.youtube.com/watch?v=HJOTIWJIaok&lc=z23qhrugpr3icru2qacdp43b03hu5abo3jwlprdff0pw03c010c
